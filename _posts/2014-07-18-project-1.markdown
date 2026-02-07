@@ -4,6 +4,9 @@ modal-id: 1
 date: 2026-02-07
 img: Cooking.jpg
 alt: image-alt
-
-description: Taking care of myself. 
+project-date: Feb 2026
+client: Your Name
+category: Personal Project
+description: Taking care of myself.
+---
 ---
