@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2026-02-07
-img: hiking.png
+img: Hiking.jpg
 alt: image-alt
 project-date: Feb 2026
 client: Start Bootstrap
