@@ -4,8 +4,6 @@ modal-id: 4
 date: 2026-02-07
 img: Meditation.jpg
 alt: image-alt
-project-date: Feb 2026
-client: Start Bootstrap
-category: Web Development
+
 description: Establishing deep connection with myself.
 ---
