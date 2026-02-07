@@ -3,7 +3,10 @@ layout: default
 modal-id: 2
 date: 2026-02-07
 img: Gardening.jpg
-
-
-description: Nurturing me and my surroundings.
+alt: image-alt
+project-date: Feb 2026
+client: Your Name
+category: Personal Project
+description: Taking care of myself.
+---
 ---
