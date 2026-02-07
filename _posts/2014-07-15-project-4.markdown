@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2026-02-07
-img: meditation.png
+img: meditation.jpg
 alt: image-alt
 project-date: Feb 2026
 client: Start Bootstrap
