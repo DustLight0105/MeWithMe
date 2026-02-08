@@ -3,6 +3,6 @@ layout: default
 modal-id: 3
 img: Hiking.jpg
 alt: image-alt
-description: Exploring
+description: Walking until the noises fade away.
 title: Exploring
 ---
