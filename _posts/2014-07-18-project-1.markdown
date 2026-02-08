@@ -5,6 +5,6 @@ date: 2026-02-07
 title: Caring
 img: Cooking.jpg
 alt: image-alt
-description: Caring
+description: A moment that's just for myself.
 ---
 ---
