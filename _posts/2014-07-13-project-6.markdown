@@ -4,5 +4,6 @@ modal-id: 6
 date: 2026-02-07
 img: Reading.jpg
 alt: image-alt
-description: Exploring
+description: A mind in its own company. 
+title: Understanding
 ---
