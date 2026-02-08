@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2026-02-07
+title: Caring
 img: Cooking.jpg
 alt: image-alt
 description: Caring
