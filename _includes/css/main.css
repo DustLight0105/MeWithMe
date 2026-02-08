@@ -106,8 +106,8 @@ header .header-video {
 header .container {
     position: relative;
     z-index: 1;
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 350px;
+    padding-bottom: 80px;
 }
 
 header img {
